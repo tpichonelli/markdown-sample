@@ -4,4 +4,4 @@ Aqui, você poderá encontrar detalhes sobre os Gates de qualidade utilizados no
 
 1. [SAST - Qualidade de Código](/sast/sonar.md  "SAST - Qualidade de Código")
 
-1. [SAST - Qualidade de Código](markdown-sample/sast/sonar  "SAST - Qualidade de Código - TEST LINK")
+1. [SAST - Qualidade de Código](/sast/sonar  "SAST - Qualidade de Código - TEST LINK")
