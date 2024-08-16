@@ -13,8 +13,6 @@ No Projeto, utilizamos uma Ferramenta para essa finalidade, o **SonarQube**.
 ![sonarqube-image](/attachments/sonarqube-image.png "SonarQube Image")
 O [SonarQube](https://docs.sonarqube.org/latest/ "Documentação sobre o SonarQube"), é uma Plataforma para Inspeção Contínua da Qualidade de Código, afim de executar Revisões Automáticas com Análise Estática do Código-fonte para detectar possíveis *Bugs*, *Code smells* e vulnerabilidades de segurança.
 
-O servidor do SonarQube, é responsável por Disponibilizar a [Plataforma *Web*](https://sonar.prod.k8s.claro.com.br "SonarQube PRD"), afim de Gerenciar os Projetos que serão analisados.
-
 <br/>
 
 ### **1.1. *Quality Gates***
